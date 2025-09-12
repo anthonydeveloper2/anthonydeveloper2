@@ -1,4 +1,4 @@
-# Olá, sou Anthony 👋
+# Hello, sou Anthony 👋
 
 Sou **programador** e estou sempre aprendendo novas tecnologias!  
 
