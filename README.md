@@ -1,7 +1,7 @@
 # 👋 Hello, sou **Anthony**
 
 Sou **programador** apaixonado por tecnologia e sempre em busca de aprender algo novo! 🚀  
-Atualmente desenvolvo projetos web e bots, explorando o mundo do front-end e back-end.
+Atualmente desenvolvo projetos sites, bots e AI developer, etc,  explorando o mundo do front-end e back-end.
 
 ---
 
