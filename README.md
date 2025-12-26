@@ -38,7 +38,7 @@ Atualmente desenvolvo projetos sites, bots e AI developer, etc,  explorando o mu
 
 ## 🌍 Idiomas:
 - 🇪🇸 **Espanhol** — nativo  
-- 🇧🇷 **Português** — fluente  
+- 🇧🇷 **Português** — fluente-avançado
 - 🇬🇧 **Inglês** — básico  
 
 ---
