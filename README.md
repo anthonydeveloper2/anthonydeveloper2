@@ -34,6 +34,7 @@ Atualmente desenvolvo projetos sites, bots e AI developer, etc,  explorando o mu
 ## 📚 O que faço:
 - Desenvolvimento de **sites**, **Bot developer** e **AI Developer**
 - Criação de **bots** e **automações** com Node.js
+- Developer de algumas Networks De Minecraft
 - Aprendendo e evoluindo constantemente 💡
 
 ---
